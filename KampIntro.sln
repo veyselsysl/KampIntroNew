@@ -13,9 +13,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UcuncuDersOdev", "UcuncuDer
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{D13D2C3D-A0FC-4FDB-BAD3-61B59063ED53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{639C5ADB-A06E-4D99-BDE1-40B112CC6B26}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{639C5ADB-A06E-4D99-BDE1-40B112CC6B26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{968066CA-43B4-41D7-A267-A88E19EF53D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{968066CA-43B4-41D7-A267-A88E19EF53D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictonary", "MyDictonary\MyDictonary.csproj", "{5D0CD348-9838-48E4-B608-2442F4C431DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{968066CA-43B4-41D7-A267-A88E19EF53D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{968066CA-43B4-41D7-A267-A88E19EF53D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{968066CA-43B4-41D7-A267-A88E19EF53D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D0CD348-9838-48E4-B608-2442F4C431DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D0CD348-9838-48E4-B608-2442F4C431DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D0CD348-9838-48E4-B608-2442F4C431DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D0CD348-9838-48E4-B608-2442F4C431DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
